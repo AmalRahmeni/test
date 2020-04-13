@@ -12,7 +12,8 @@ to run this program you need first:
 -configure the library: NLTK, BeautifulSoup, pandas, NumPy, scipy, matplotlib
 
 Step:
-after installing python and downloading the file, open the code in the jupyter notebook and execute it with <shift + enter>.
+After installing the snake and downloading the file, open the code in the jupyter notebook and first execute the extraction code to get the dataset.
+To implement it, click on <shift + enter>.
 
 result:
 The file extract concerns the extraction of the StackOverflow dataset how we give ourselves 10,000 questions in a json file named test.json.
